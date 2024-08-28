@@ -1,2 +1,2 @@
 # PHBS-Note
-PHBS 生活指南 🌟
+PHBS Life Note.
